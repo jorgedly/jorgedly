@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jorge 👋
+
+- 🔭 I’m currently working on Dot Net, NodeJS and Angular
+- 🌱 I’m currently learning NextJS
+- 💬 Ask me about NodeJS, Angular, Java, SQL (and videogames)
+- 📫 How to reach me: jorgekl.1994@gmail.com
+- ⚡ Fun fact: I don't play [Skyrim](https://elderscrolls.bethesda.net/en/skyrim) as a stealth archer anymore 
 
 <!--
 **jorgedly/jorgedly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
